@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-5zqm3q.trans88.space/sitemap.xml
